@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 2.5.1
+
+### Patch Changes
+
+- fix: relax status code types ([#11781](https://github.com/sveltejs/kit/pull/11781))
+
+- fix: `popstate` navigations take `pushState` navigations into account ([#11765](https://github.com/sveltejs/kit/pull/11765))
+
 ## 2.5.0
 
 ### Minor Changes
